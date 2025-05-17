@@ -21,6 +21,10 @@
 7 Data Analysis with R Programming
 -<a href="https://github.com/vishalmehta01/Certificates/blob/main/data%20analysis%20using%20r%20language.pdf">certicate 7</a>
 
+8 Final Google Data Analytics
+-<a href="https://github.com/vishalmehta01/Certificates/blob/main/Google%20Data%20Analytics.pdf"> Google Data Analytics</a>
+
+
 
 
 
